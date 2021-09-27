@@ -53,3 +53,6 @@
 
 5. What is the difference between a fixed and liquid layout?
   - A liquid layout would allow those elements to move while the page is scrolled
+
+
+[Day 3 CodePen Completed](https://codepen.io/alexmfritz/pen/qBjKPbW)
