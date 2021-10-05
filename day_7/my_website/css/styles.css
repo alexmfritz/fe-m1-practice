@@ -1,0 +1,49 @@
+
+body {
+	background-color: #EEEEEE;
+	border: 5px solid #ED1D24;
+}
+header {
+  background: rgba(236, 29, 36);
+  color: white;
+  height: 50px;
+  padding: 0 25px;
+  text-decoration: none;
+}
+header h1 {
+  font-family: Marvel;
+  float: left;
+  height: 35px;
+  width: 35px;
+  margin-top: 8px;
+}
+header nav {
+  float: right;
+}
+nav li {
+  display: inline-block;
+  padding: 17px 10px;
+}
+nav li:hover {
+  background: rgba(29, 36,236);
+  color: white;
+  cursor: pointer;
+}
+section h2 {
+  text-align: center;
+}
+section img {
+  width: 99%;
+  padding: 20px 0;
+  margin-left: 10px;
+}
+
+
+
+footer {
+    background: rgba(236, 29, 36);
+    color: white;
+    margin-top: 40px;
+    padding: 20px 0;
+    text-align: center;
+}
