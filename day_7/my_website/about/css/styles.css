@@ -30,11 +30,41 @@ nav li:hover {
   cursor: pointer;
 }
 
-
 footer {
     background: rgba(236, 29, 36);
     color: white;
-    margin-top: 40px;
+    margin-top: 80px;
     padding: 20px 0;
     text-align: center;
+}
+h2 {
+	font-size: 200%;
+	margin-left: 15px;
+}
+#aboutPOne {
+	font-size: 200%;
+	margin: 15px;
+}
+p {
+	font-size: 24px;
+	margin: 15px;
+	float: center;
+}
+#capComic {
+	height: 200px;
+	width: auto;
+	float: left;
+	margin: 15px;
+}
+#rdjTony {
+	width: 300px;
+	height: auto;
+	float: right;
+	margin: 15px;
+}
+#avengersOne {
+	width: 30%;
+	height: auto;
+	float: left;
+	margin: 15px;
 }
